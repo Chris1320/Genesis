@@ -1,6 +1,6 @@
 # Genesis
 
-"*Your journal, only yours.*"
+"Your journal, only yours."
 
 ## Setup
 
