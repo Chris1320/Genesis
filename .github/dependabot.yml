@@ -5,7 +5,11 @@
 
 version: 2
 updates:
-    - package-ecosystem: "bun" # See documentation for possible values
-      directory: "/genesis-web" # Location of package manifests
+    - package-ecosystem: "uv" # Genesis Core
+      directory: "/genesis-core"
+      schedule:
+          interval: "weekly"
+    - package-ecosystem: "bun" # Genesis Web
+      directory: "/genesis-web"
       schedule:
           interval: "weekly"
