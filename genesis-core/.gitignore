@@ -1,7 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
+#--------------------------------------------------#
+# The following was generated with gitignore.nvim: #
+#--------------------------------------------------#
+# Gitignore for the following technologies: Python
 
-### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -163,7 +164,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-### Python Patch ###
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
 poetry.toml
 
@@ -173,4 +173,3 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/python

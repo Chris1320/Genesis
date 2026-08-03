@@ -1,3 +1,3 @@
-# Genesis
+# genesis-core
 
-"Your journal, only yours."
+_Your journal, only yours._
